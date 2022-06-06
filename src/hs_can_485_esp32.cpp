@@ -2,10 +2,12 @@
 
 HS_CAN_485_ESP32::HS_CAN_485_ESP32(void)
 {
+  
 }
 
 HS_CAN_485_ESP32::~HS_CAN_485_ESP32()
-{ 
+{
+
 }
 
 
